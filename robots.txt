@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /admin/*
+Disallow: /images/*
+Disallow: /uploads/*
+Disallow: /assets/*
+Disallow: /migration/*
+
+User-agent: 008
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Synthesio
+Disallow: /
+
+Sitemap: https://my-domain.com/sitemap.xml
